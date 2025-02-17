@@ -1,3 +1,5 @@
+# Project management Tool using ASP.NET core MVC model and SQL server
+## Program Snapshots
 ### Database
  ![image alt](https://github.com/BBhuwanJ/netflixclone/blob/0352200a053ea9dda8db907df99b3ef777ac2449/assets/Database.png)
 
@@ -21,3 +23,9 @@
 
 ### Details of Record
 ![image alt](https://github.com/BBhuwanJ/netflixclone/blob/0352200a053ea9dda8db907df99b3ef777ac2449/assets/Details.png)
+
+#### Submitted By:<br/>
+#### AnshuBhandari <br/>
+#### 21075399 <br/>
+#### Everest Engineering College
+
